@@ -1,0 +1,13 @@
+JOBPACER GODADDY CRISP V3 ROUNDED SLIDES
+
+1. Delete the existing slideshow images from the GoDaddy slideshow.
+2. Upload all seven PNG files from this folder as new images.
+3. Keep the image focal point centered.
+4. Do not crop the source image before adding it to the slideshow.
+5. Set the slideshow image overlay or darkness to 0% for maximum clarity and accurate colors.
+6. Publish the site, then refresh the live page with Ctrl+F5.
+
+The unique -crisp-v3-rounded filenames force GoDaddy to create fresh CDN assets.
+Phone screenshots are clipped to rounded hardware silhouettes, and their layered shadows use matching rounded corners.
+
+Expected source dimensions: 2400 x 3000 pixels.
